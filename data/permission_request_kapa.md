@@ -29,3 +29,7 @@ Could you please confirm:
 The second image shows scaffolding around the control tower. If an exterior photograph without scaffolding is available under the same terms, it would also be helpful.
 
 Thank you.
+
+## 事前調査結果（2026-10-15）
+
+配信画像はどちらも1200×600で再取得・検証済み。公開キャプションに撮影者・許諾情報はなく、配信ファイルにもEXIF/XMPはない。URLのw=2000を原本解像度とは扱わない。この文案を送る際は、最高解像度の撮影原本と、商用掲載・改変・クレジットの条件の両方について回答を得る。問い合わせ未送信。

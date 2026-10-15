@@ -1,0 +1,112 @@
+{
+  "scope": "KAPA-R1 and KAPA-R2; publicly available information only",
+  "checked_pages": [
+    "https://www.centennialairport.com/discover-centennial-airport-kapa",
+    "https://www.centennialairport.com/airport-projects",
+    "https://www.centennialairport.com/privacy-policy",
+    "https://www.centennialairport.com/media-information",
+    "https://www.centennialairport.com/sitemap.xml"
+  ],
+  "checks": [
+    {
+      "candidate_id": "KAPA-R1",
+      "published_file": {
+        "id": "KAPA-R1",
+        "variant": "published",
+        "url": "https://streamline.imgix.net/8cef5e52-3c6c-4998-bf25-78e03db4b2a4/c69a48fb-f701-40ae-8227-620e2e0afa18/rs%3Dw_1200%2Ch_600%2Ccg_true%20%2811%29.webp?ixlib=rb-1.1.0&w=2000&h=2000&fit=max&or=0&s=787facf38cb6e774a555e86660f4693c",
+        "status": 200,
+        "content_type": "image/jpeg",
+        "size": [
+          1200,
+          600
+        ],
+        "format": "JPEG",
+        "bytes": 212377,
+        "sha256": "2bb67be20ee337aa353e95195a3da7e15235b2edee9338c7d3f9121057427e12",
+        "metadata": {
+          "jfif": 258,
+          "jfif_version": [
+            1,
+            2
+          ],
+          "dpi": [
+            72,
+            72
+          ],
+          "jfif_unit": 1,
+          "jfif_density": [
+            72,
+            72
+          ],
+          "progressive": 1,
+          "progression": 1
+        },
+        "exif": {},
+        "xmp_present": false
+      },
+      "public_license_found": false,
+      "commercial_permission_confirmed": false,
+      "higher_resolution_original_confirmed": false,
+      "unsigned_url_result": "HTTP 403; no original obtained",
+      "contact_page": "https://www.centennialairport.com/media-information",
+      "contact_role": "Manager of Communications & PIO",
+      "contact_name": "Samantha Blymyer",
+      "contact_email": "sblymyer@centennialairport.com",
+      "contact_status": "not contacted",
+      "checked_date": "2026-10-15"
+    },
+    {
+      "candidate_id": "KAPA-R2",
+      "published_file": {
+        "id": "KAPA-R2",
+        "variant": "published",
+        "url": "https://streamline.imgix.net/8cef5e52-3c6c-4998-bf25-78e03db4b2a4/a96d4499-6785-4d6b-b285-954982a8406e/rs%3Dw_1200%2Ch_600%2Ccg_true%20%288%29.webp?ixlib=rb-1.1.0&w=2000&h=2000&fit=max&or=0&s=a0548bc8fcf5cc13da15b0bbdc80c0f3",
+        "status": 200,
+        "content_type": "image/jpeg",
+        "size": [
+          1200,
+          600
+        ],
+        "format": "JPEG",
+        "bytes": 189651,
+        "sha256": "3144665065ef4a9df24fde9eb8ac5e26c7a22c1f46c616c60dd2ba9b29f23de9",
+        "metadata": {
+          "jfif": 258,
+          "jfif_version": [
+            1,
+            2
+          ],
+          "dpi": [
+            72,
+            72
+          ],
+          "jfif_unit": 1,
+          "jfif_density": [
+            72,
+            72
+          ],
+          "progressive": 1,
+          "progression": 1
+        },
+        "exif": {},
+        "xmp_present": false
+      },
+      "public_license_found": false,
+      "commercial_permission_confirmed": false,
+      "higher_resolution_original_confirmed": false,
+      "unsigned_url_result": "HTTP 403; no original obtained",
+      "contact_page": "https://www.centennialairport.com/media-information",
+      "contact_role": "Manager of Communications & PIO",
+      "contact_name": "Samantha Blymyer",
+      "contact_email": "sblymyer@centennialairport.com",
+      "contact_status": "not contacted",
+      "checked_date": "2026-10-15"
+    }
+  ],
+  "notes": [
+    "No public license found in inspected material does not establish that use is prohibited. It also does not grant commercial permission.",
+    "Only the published 1200x600 rendition was obtained. The maximum original resolution is unknown.",
+    "An unsigned image URL returned HTTP 403; original resolution was not inferred from this failure.",
+    "No message was sent to the rights holder."
+  ]
+}
