@@ -100,3 +100,11 @@ Wikimedia Commons上の追加10画像について、出典の利用条件・原�
 画像ごとの根拠・寸法・除外理由は `licensed_photo_screening.csv` に記録した。追加した画像は提出CSV・Excelの提出URLに入れていない。公式サイトのKAPA-R1/R2もroyalty-free未確認のまま保留。
 
 現在のネットワーク許可範囲ではBing、DuckDuckGo、Flickrへの接続がプロキシの403で拒否された。別の写真を探すため、既存ドメインを維持して `www.bing.com`、`html.duckduckgo.com`、`www.flickr.com`、`live.staticflickr.com`、`creativecommons.org` を環境設定案に追加保存した。保存だけでは現在の接続制限を変更せず、設定の保存・公開による反映が必要。
+
+## 旧称・別表記での探索と接続再診断（2026-10-16）
+
+- Arapahoe、Centennial、Denverと空撮・衛星・滑走路等の組み合わせで検索。新規のFEMA写真45344/45345/45346/45348はPublic domainの根拠があるが、出典にRocky Mountain Regional Airportと明記されているため、KAPAの写真として除外。4件とも出典ページの確認にとどめ、原画像の取得・目視はしていない。寸法は出典記載値。
+- NASA ISS016-E-16598を再取得し、3032×2008・NASA由来のPublic domain表示を再確認。冬景色で空港が小さいという先の構図上の懸念を解消する新しい根拠はなく、採用には進めない。
+- 読み取った保存済み設定にwww.bing.com、html.duckduckgo.com、www.flickr.com等が含まれていることを確認。それでもHTTPS CONNECT時にプロキシ403が発生し、追加権限での読み取り実行でもBing/Flickrは同じ結果だった。サイト本文を取得できておらず、サイトが検索を拒否したとは判断しない。
+- 保存済み設定と現在の実行環境の通信結果に不整合があるため、追加の設定保存・公開を繰り返すのではなく、実行環境の再接続・新規タスクでの確認、またはプラットフォーム側の調査が必要。成功するとは未検証。
+- 提出候補として新たに採用できるKAPA写真は未確定。提出CSVは変更しない。
