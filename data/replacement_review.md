@@ -88,3 +88,15 @@ URLの `w=2000` は希望する配信条件であり、画像の実寸が2000ピ
 確定に必要な外部情報：権利者からの商用利用条件、撮影者・クレジット、最高解像度の原本。公式メディア窓口はSamantha Blymyer（Manager of Communications & PIO）、sblymyer@centennialairport.com。窓口掲載先：https://www.centennialairport.com/media-information 。窓口が権利者本人とは断定しない。用意済みの問い合わせ文は未送信で、許諾回答は未取得。
 
 機械可読の検証記録：`rights_resolution_check.json`。提出CSVは変更せず、両候補は提出対象外のまま維持する。
+
+## royalty-free条件を優先した追加探索（2026-10-16）
+
+案件名のroyalty-freeを必須条件として維持する。個別の許諾書を必ず取得するという追加要件は設けず、公開されたライセンスやパブリックドメインの根拠を写真ごとに記録する。公開されているだけの公式写真は、royalty-free確認済みとはしない。
+
+Wikimedia Commons上の追加10画像について、出典の利用条件・原画像・画素寸法を確認した。著作者によるPublic domain公開、CC BY-SA 2.0、米国National GuardのPublic domain表示があるものを見つけた。CC BY-SAは反復利用ごとのロイヤルティ支払いを要求しないが、著作者表示等の条件を守る必要がある。
+
+ただし目視すると、7枚は航空機中心（うち1枚は格納庫内または屋根下）、残る3枚は消防ロゴの接写・コックピット・プロペラスピナーの接写だった。利用条件だけを理由に選ばず、屋外で対象空港が分かるという要件により提出対象外とした。訓練写真の説明にChatfield Reservoir付近とあることだけで、個別写真がKAPAと判断していない。
+
+画像ごとの根拠・寸法・除外理由は `licensed_photo_screening.csv` に記録した。追加した画像は提出CSV・Excelの提出URLに入れていない。公式サイトのKAPA-R1/R2もroyalty-free未確認のまま保留。
+
+現在のネットワーク許可範囲ではBing、DuckDuckGo、Flickrへの接続がプロキシの403で拒否された。別の写真を探すため、既存ドメインを維持して `www.bing.com`、`html.duckduckgo.com`、`www.flickr.com`、`live.staticflickr.com`、`creativecommons.org` を環境設定案に追加保存した。保存だけでは現在の接続制限を変更せず、設定の保存・公開による反映が必要。
