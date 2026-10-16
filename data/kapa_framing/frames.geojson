@@ -1,0 +1,108 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "north_up",
+        "width_m": 6961.128116098791,
+        "height_m": 4640.752077399194,
+        "area_km2": 32.3048697658274,
+        "airport_area_fraction": 0.13189328544759377,
+        "image_right_bearing_deg": 90.0,
+        "all_boundary_vertices_inside": true,
+        "all_runway_vertices_inside": true,
+        "lonlat_bbox": [
+          -104.88197437985097,
+          39.54967195579874,
+          -104.80083421314706,
+          39.59159774089363
+        ],
+        "output_2400x1600_ground_m_per_pixel": 2.9004700483744963,
+        "required_pixels_at_1m_gsd": [
+          6962,
+          4641
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.88197437985097,
+              39.54978246554721
+            ],
+            [
+              -104.80095381977202,
+              39.54967195579874
+            ],
+            [
+              -104.80083421314706,
+              39.59148706784429
+            ],
+            [
+              -104.88190345801877,
+              39.59159774089363
+            ],
+            [
+              -104.88197437985097,
+              39.54978246554721
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "runway_aligned",
+        "width_m": 4657.965446624905,
+        "height_m": 3105.3102977499366,
+        "area_km2": 14.4644280679677,
+        "airport_area_fraction": 0.2945706106975214,
+        "image_right_bearing_deg": 177.8637459637632,
+        "all_boundary_vertices_inside": true,
+        "all_runway_vertices_inside": true,
+        "lonlat_bbox": [
+          -104.86049252558215,
+          39.54940724146758,
+          -104.82243561803574,
+          39.59234483460419
+        ],
+        "output_2400x1600_ground_m_per_pixel": 1.9408189360937103,
+        "required_pixels_at_1m_gsd": [
+          4658,
+          3106
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.86049252558215,
+              39.591350856578025
+            ],
+            [
+              -104.85855567979702,
+              39.54940724146758
+            ],
+            [
+              -104.82243561803574,
+              39.55040067151036
+            ],
+            [
+              -104.8243507157027,
+              39.59234483460419
+            ],
+            [
+              -104.86049252558215,
+              39.591350856578025
+            ]
+          ]
+        ]
+      }
+    }
+  ],
+  "attribution": "\u00a9 OpenStreetMap contributors; ODbL 1.0; https://www.openstreetmap.org/copyright"
+}

@@ -1,0 +1,83 @@
+{
+  "source_url": "https://www.centennialairport.com/files/e3a6747bd/23.+Airport+Aerial.pdf",
+  "pdf_sha256": "32ae8f1f4f6ed52b355357ba59ea9dc8ad5061e05619b7e618d8bb0a75a83ae6",
+  "image_sha256": "df5b809751dbbee78949e4517ae31df7ef4c4075241893dffd9070c087d7b449",
+  "width_px": 2666,
+  "height_px": 4000,
+  "method": "Manual approximate registration of visible paved runway ends to OSM centerline endpoints; not an authoritative georeferencing transform.",
+  "commercial_reuse": "unconfirmed; source image used only for local framing evaluation, not committed or approved as submission photo",
+  "control_points": [
+    {
+      "runway": "17L/35R",
+      "endpoint_index": 0,
+      "pixel": [
+        693,
+        917
+      ],
+      "lonlat": [
+        -104.8514781,
+        39.584147
+      ]
+    },
+    {
+      "runway": "17L/35R",
+      "endpoint_index": -1,
+      "pixel": [
+        680,
+        3300
+      ],
+      "lonlat": [
+        -104.8502152,
+        39.556724
+      ]
+    },
+    {
+      "runway": "17R/35L",
+      "endpoint_index": 0,
+      "pixel": [
+        531,
+        1371
+      ],
+      "lonlat": [
+        -104.8537298,
+        39.578989
+      ]
+    },
+    {
+      "runway": "17R/35L",
+      "endpoint_index": -1,
+      "pixel": [
+        520,
+        2974
+      ],
+      "lonlat": [
+        -104.8528441,
+        39.5597932
+      ]
+    },
+    {
+      "runway": "10/28",
+      "endpoint_index": 0,
+      "pixel": [
+        1905,
+        2313
+      ],
+      "lonlat": [
+        -104.832324,
+        39.5681857
+      ]
+    },
+    {
+      "runway": "10/28",
+      "endpoint_index": -1,
+      "pixel": [
+        839,
+        1870
+      ],
+      "lonlat": [
+        -104.848229,
+        39.5729013
+      ]
+    }
+  ]
+}
